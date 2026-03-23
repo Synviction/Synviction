@@ -1,7 +1,7 @@
 ### `Whoami`
 I'm Deij, currently a service desk analyst based in NZ</br>
 </br>
-I'm an IT graduate aspiring to be a cybersecurity professional. I currently leverage my military knowledge and IT support skills to build a deeper understanding of defensive security and threat detection.</br>
+I'm a cybersecurity graduate aspiring to be a DFIR professional. I currently leverage my military knowledge and IT support skills to build a deeper understanding of defensive security and threat detection.</br>
 
 ---
 
