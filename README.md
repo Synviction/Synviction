@@ -1,16 +1,20 @@
-## Hi there 👋
+### `Whoami` 🛡️
+I'm Deij, currently a service desk analyst based in NZ</br>
+</br>
+I'm an IT graduate aspiring to be a DFIR Analyst. I currently leverage my military knowledge and IT support skills to build a deeper understanding of defensive security and threat detection.</br>
 
-<!--
-**Synviction/Synviction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Current Focus
+* **Project:** [Home SIEM Lab]() - Deploying Wazuh to monitor home network.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Arsenal
+* **Defensive:** `Wireshark` `Security Onion` `Autopsy` `NMAP` `AccessData FTK` `Snort`
+* **Offensive:** `Metasploit` `Kali Linux` `BurpSuite` `John the Ripper` `Hashcat` `Mimikatz`
+* **Frameworks and Models:** `NIST` `CIS` `MITRE ATT&CK` `Cyber Kill Chain` `NCSC NZ (NZISM)` `OWASP`
+* **Current Workflow:** `Intune` `Entra ID (Azure AD)` `Active Directory` `Windows` `Android (MDM)`
+* **Strongest Skills:** `Problem Solving` `Relaxed and composed` `communication` `Teamwork`
+
+### Connection & Comms
+* [LinkedIn](https://www.linkedin.com/in/deij/)
+* [Website](Synviction.com)
