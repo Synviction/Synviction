@@ -5,16 +5,16 @@ I'm an IT graduate aspiring to be a cybersecurity professional. I currently leve
 
 ---
 
-### Current Focus
+### `Current Focus`
 * **Project:** [Home SIEM Lab]() - Deploying Wazuh to monitor home network.
 
-### Current Arsenal
+### `Current Arsenal`
 * **Defensive:** `Wireshark` `Security Onion` `Autopsy` `NMAP` `AccessData FTK` `Snort`
 * **Offensive:** `Metasploit` `Kali Linux` `BurpSuite` `John the Ripper` `Hashcat` `Mimikatz`
 * **Frameworks and Models:** `NIST` `CIS` `MITRE ATT&CK` `Cyber Kill Chain` `NCSC NZ (NZISM)` `OWASP`
 * **Current Workflow:** `Intune` `Entra ID (Azure AD)` `Active Directory` `Windows` `Android (MDM)`
 * **Strongest Skills:** `Problem Solving` `Relaxed and composed` `communication` `Teamwork`
 
-### Connection & Comms
+### `Connection & Comms`
 * [LinkedIn](https://www.linkedin.com/in/deij/)
 * [Website](Synviction.com)
