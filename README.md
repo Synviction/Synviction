@@ -6,7 +6,7 @@ I'm a cybersecurity graduate aspiring to be a DFIR professional. I currently lev
 ---
 
 ### `Focus`
-* **Project:** [DFIR-pipeline](github.com/Synviction/siem-homelab) - Deploying Wazuh to monitor home network.
+* **Project:** [dfir-pipeline](github.com/Synviction/siem-homelab) - Deploying Wazuh to monitor home network.
 
 ### `Arsenal`
 * **Defensive:** `Wireshark` `Security Onion` `Autopsy` `NMAP` `AccessData FTK` `Snort`
