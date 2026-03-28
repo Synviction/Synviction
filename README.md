@@ -6,7 +6,7 @@ I'm a cybersecurity graduate aspiring to be a DFIR professional. I currently lev
 ---
 
 ### `Focus`
-* **Project:** [dfir-pipeline](github.com/Synviction/dfir-pipeline) - Creating a lightweight forensic pipeline for real-time threat detection and incident triage.
+* **Project:** [dfir-pipeline](github.com/Synviction/dfir-pipeline) - Building a lightweight forensic pipeline for real-time threat detection and incident triage.
 
 ### `Arsenal`
 * **Defensive:** `Wireshark` `Security Onion` `Autopsy` `NMAP` `AccessData FTK` `Snort`
